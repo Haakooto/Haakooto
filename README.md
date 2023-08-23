@@ -1,5 +1,5 @@
 # GitHub Homepage
 
 ## TODO
-- [] Fill README with content
-- 
+ [] Fill README with content
+
